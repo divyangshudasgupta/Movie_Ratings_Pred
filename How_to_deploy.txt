@@ -1,0 +1,4 @@
+How to run-
+Save the main ipynb file and demp.py file in the anaconda prompt directory (and all pkl files also)
+Then open anaconda prompt and type the code
+streamlit run demo.py
