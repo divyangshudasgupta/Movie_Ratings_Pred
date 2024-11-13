@@ -2,4 +2,5 @@ streamlit
 joblib==0.15.1
 scikit-learn==1.0.2
 pandas
+numpy==1.21.6 
 pillow
