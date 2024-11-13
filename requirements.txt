@@ -1,4 +1,4 @@
-streamlit==1.1.0
+streamlit
 scikit-learn==1.0.2
 pandas
 Pillow
